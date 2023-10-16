@@ -1,3 +1,3 @@
 # Git-Tuts
-I have forked your repo
-Done
+i have forked your repo
+done
