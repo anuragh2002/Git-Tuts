@@ -1,3 +1,3 @@
 # Git-Tuts
-i have forked your repo
-done
+I have forked your repo
+Done. Hi I am Ashish Saha
